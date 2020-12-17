@@ -1,7 +1,7 @@
 name: "My Website"
 output_dir: "docs"  # docs directory of master branch
 navbar:
-  title: "xxx's website"
+  title: "Li-Yuan's website"
   type: inverse
   left:
     - text: "Home"
